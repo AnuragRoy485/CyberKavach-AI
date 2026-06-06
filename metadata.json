@@ -1,0 +1,6 @@
+{
+  "name": "CyberKavach AI",
+  "description": "India's advanced AI tool designed to trace cyber fraud, diagnose messages, generate cyber cell complaint drafts (IT Act 2000 / BNS 2023), and secure evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
